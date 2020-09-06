@@ -1,0 +1,400 @@
+
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>
+    Torresburriel Estudio  </title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="/assets/img/favicon.png">
+
+  <link rel="stylesheet" href="/assets/styles/main.min.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700|Source+Sans+Pro" rel="stylesheet">
+
+  <meta name="description" content="Torresburriel Estudio">
+
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="en_EN" />
+  <meta property="og:title" content="Torresburriel Estudio" />
+  <meta property="og:description" content="Torresburriel Estudio" />
+  <meta property="og:url" content="http://www.torresburriel.com" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@uxTBE" />
+  <meta name="twitter:title" content="Torresburriel Estudio" />
+  <meta name="twitter:description" content="Torresburriel Estudio" />
+  <meta name="twitter:url" content="http://www.torresburriel.com" />
+
+  
+  <!--[if lt IE 9]>
+      <script src="/assets/javascripts/html5-3.6-respond-1.4.2.min.js"></script>
+  <![endif]-->
+
+  
+  <!-- Google Analytics 2018 -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-38725181-1', 'auto');
+    ga('require', 'GTM-KD3PLRH');
+    ga('send', 'pageview');
+  </script>
+  <!-- /Google Analytics 2018 -->
+
+  <!-- Hotjar Tracking Code for http://www.torresburriel.com -->
+  <script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:293237,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+  <!-- /Hotjar Tracking Code for http://www.torresburriel.com -->
+
+  <!-- Optimize -->
+  <style>.async-hide { opacity: 0 !important} </style>
+  <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-KD3PLRH':true});</script>
+  <!-- /Optimize -->
+
+<!-- Chatra {literal} -->
+<script>
+    (function(d, w, c) {
+        w.ChatraID = 'rjPGeEN3QXPyHRDhS';
+        var s = d.createElement('script');
+        w[c] = w[c] || function() {
+            (w[c].q = w[c].q || []).push(arguments);
+        };
+        s.async = true;
+        s.src = 'https://call.chatra.io/chatra.js';
+        if (d.head) d.head.appendChild(s);
+    })(document, window, 'Chatra');
+</script>
+<!-- /Chatra {/literal} -->
+
+</head>
+<body>
+
+<div class="remodal-bg">
+
+<header class="site-header site-header__home">
+  <div class="wrapper">
+    <img class="illustration" src="/assets/img/illustration-header-home.svg" alt="Illustration" data-scroll-speed="-5" />
+    <div class="site-header-menu">
+      <div class="logo">
+        <a href="/"><img src="/assets/img/logo.svg" alt="Torresburriel Estudio logo"></a>
+      </div>
+
+      <button id="trigger_main_menu" data-remodal-target="modal_main_menu"></button>
+
+    </div><!-- .site-header-menu -->
+    <div class="site-header-content">
+      <h1>Sabemos lo que piensan tus clientes</h1>
+      <p class="description">
+        Ponemos a las personas en el centro del proceso de diseño, para crear mejores soluciones que ayuden a crecer tu negocio, mejorando su experiencia actual con un ojo en el futuro.
+      </p>
+      <div class="home-header-contact">
+        <p><a href="/contacto/" class="btn primary">Contacta</a></p>
+        <p class="meet-what-we-do">Conoce <a href="/servicios/">nuestros servicios</a></p>
+      </div>
+    </div><!-- .site-header-content -->
+  </div><!-- .wrapper -->
+</header>
+
+<section class="main-block home-case-studies">
+  <div class="diagonal"></div>
+  <div class="home-case-item">
+    <img src="/assets/img/case-study-strategy-thumbnail.png" alt="Image of the case study" class="case-image" data-scroll-speed="15">
+    <div class="wrapper">
+      <h2 class="title-normal"><a href="/casos-de-exito/estrategia-consultoria-ux/">Rediseñando el futuro de la experiencia de alojamiento</a></h2>
+      <div class="case-type">Estrategia y consultoría UX</div>
+      <p class="case-description">
+        Los canales digitales facilitan nuevas formas de transformar la experiencia de cliente de principio a fin. Una amplia gama de servicios, desde la investigación a las pruebas con usuarios, nos permitieron ofrecer una mejor experiencia multicanal de alojamiento.
+      </p>
+      <div class="case-link">
+        <a href="/casos-de-exito/estrategia-consultoria-ux/" class="btn secondary">Ver caso de éxito</a>
+      </div>
+    </div>
+  </div><!-- .home-case-item -->
+
+  <!-- <div class="home-case-item">
+    <img src="/assets/img/case-study-research-thumbnail.png" alt="Image of the case study" class="case-image" data-scroll-speed="15">
+    <div class="wrapper">
+      <h2 class="title-normal"><a href="/casos-de-exito/investigacion-usuarios/">Optimizar la taxonomía para ser más eficaces en un sitio multinacional de retail</a></h2>
+      <div class="case-type">Investigación de usuarios</div>
+      <p class="case-description">
+        Descubrir las percepciones, necesidades y comportamientos de los usuarios nos permitió proporcionar un diseño de servicio y una taxonomía más efectivos para los objetivos del negocio.
+      </p>
+      <div class="case-link">
+        <a href="/casos-de-exito/investigacion-usuarios/" class="btn secondary">Ver caso de éxito</a>
+      </div>
+    </div>
+  </div> -->
+
+  <div class="home-case-item">
+    <img src="/assets/img/case-study-design-thumbnail.png" alt="Image of the case study" class="case-image" data-scroll-speed="15">
+    <div class="wrapper">
+      <h2 class="title-normal"><a href="/casos-de-exito/diseno-ux/">Mejorar el diseño como elemento de innovación en fintech</a></h2>
+      <div class="case-type">Diseño UX</div>
+      <p class="case-description">
+        Desplazamos a un segundo plano la complejidad inherente a los servicios financieros, proporcionando una interfaz intuitiva y sencilla, que ayuda a entender con más facilidad los servicios y mejora la experiencia de usuario.
+      </p>
+      <div class="case-link">
+        <a href="/casos-de-exito/diseno-ux/" class="btn secondary">Ver caso de éxito</a>
+      </div>
+    </div>
+  </div><!-- .home-case-item -->
+
+  <div class="home-case-item">
+    <img src="/assets/img/case-study-usertesting-thumbnail.png" alt="Image of the case study" class="case-image" data-scroll-speed="15">
+    <div class="wrapper">
+      <h2 class="title-normal"><a href="/casos-de-exito/pruebas-usuarios/">Mejorar el conocimiento de los usuarios para fomentar la participación ciudadana</a></h2>
+      <div class="case-type">Pruebas con usuarios</div>
+      <p class="case-description">
+        Explorar oportunidades de mejora en la experiencia de usuario nos permitió involucrar a los ciudadanos de Madrid en la participación y toma de decisiones utilizando una plataforma abierta, transparente y más democrática.
+      </p>
+      <div class="case-link">
+        <a href="/casos-de-exito/pruebas-usuarios/" class="btn secondary">Ver caso de éxito</a>
+      </div>
+    </div>
+  </div><!-- .home-case-item -->
+</section>
+
+<section class="main-block home-the-team">
+  <div class="wrapper" data-mobile-scroll="no">
+    <h2>conocimiento, acciones, resultados<br />nuestro equipo lo hace posible</h2>
+    <p class="description">
+      Nuestro equipo aporta la experiencia y profesionalidad de una gran agencia, con la agilidad y capacidad de adaptación de una startup. Nuestro modo de hacer se guía siempre por un <a target="_blank" href="https://docs.google.com/document/d/1VNawdY1YJCicBOWnLGhdMeVgqYQ380l_5a0TYPIPx1g/">Código ético de conducta</a> alineado con nuestro valores corporativos. También compartimos ideas y experiencias sobre <a href="http://www.torresburriel.com/weblog/?s=c%C3%B3mo+trabajamos">cómo trabajamos</a>.
+    </p>
+    <p class="link">
+      <a href="/equipo/" class="btn secondary">Conoce nuestro equipo</a>
+    </p>
+  </div><!-- .wrapper -->
+</section>
+
+<section class="main-block home-blog">
+  <div class="wrapper">
+    <img class="illustration" src="/assets/img/illustration-home-blog.svg" alt="Illustration" />
+    <h2 data-mobile-scroll="no">Nos encanta compartir lo que sabemos</h2>
+
+    <div class="blog-feed-items" id="feed_items">
+    </div><!-- .blog-feed-items -->
+
+    <p class="link">
+      <a href="http://www.torresburriel.com/weblog/" class="btn secondary">Ver todas las entradas</a>
+    </p>
+  </div><!-- .wrapper -->
+</section>
+
+          <div class="footer-contact">
+        <div class="wrapper">
+          <h2 class="title-normal">Contacta con nosotros</h2>
+          <form class="footer-contact-form" id="contact_form">
+            <div class="column">
+              <div class="form-item field input required">
+                <label for="name">Tu nombre</label>
+                <input type="text" name="name" id="name" />
+                <span class="error-message"></span>
+              </div>
+              <div class="form-item field input required">
+                <label for="email">Tu correo electrónico</label>
+                <input type="email" class="email" name="email" id="email" />
+                <span class="error-message"></span>
+              </div>
+              <div class="form-item input field input-hack">
+                <input type="text" name="input_hack" id="input_hack" />
+              </div>
+              <div class="form-item phone">
+                <span class="label">También puedes contactarnos por teléfono</span>
+                <span class="phone-number">+34 976 979 313</span>
+              </div>
+            </div><!-- .column -->
+            <div class="column">
+              <div class="form-item field textarea required">
+                <label for="message">¿Cómo podemos ayudarte?</label>
+                <textarea class="textarea" name="message" id="message"></textarea>
+                <span class="error-message"></span>
+              </div>
+              <div class="form-item submit">
+                <span class="label">
+                  Al pulsar en el botón Enviar, aceptas nuestra <a href="/politica-de-privacidad/">Política de privacidad</a>.
+                </span>
+                <span class="submit-button">
+                  <input type="submit" value="Enviar" class="btn primary submit" id="footer_contact_form_submit" />
+                </span>
+              </div>
+              <div class="form-confirmation" id="mail_confirmation">
+                <p>Formulario enviado correctamente. Nos pondremos en contacto lo antes posible. ¡Gracias!</p>
+              </div>
+              <div class="form-item mobile-phone-call">
+                <span class="label">También puedes contactar por teléfono</span>
+                <span class="call">
+                  <a href="tel:+34976979313" class="btn primary">
+                    <svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <g id="Movil" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+                          <g id="TBE-Mobile-home" transform="translate(-35.000000, -4740.000000)" stroke="#FFFFFF">
+                              <g id="Page-1" transform="translate(36.000000, 4741.000000)">
+                                  <path d="M5.68701632,7 L1,2.31298368 L3.03030042,0.282683259 C3.40721143,-0.094227753 4.0181837,-0.094227753 4.39509471,0.282683259 L7.71731674,3.60442269 C8.09422775,3.9818163 8.09422775,4.59278857 7.71731674,4.96969958 L5.68701632,7 Z" id="Stroke-1"></path>
+                                  <path d="M1.57877966,2 C1.57877966,2 -3.68088069,6.07350004 5,14" id="Stroke-3"></path>
+                                  <path d="M5.98496381,7 C5.98496381,7 3.1980275,8.64981528 7,12" id="Stroke-5"></path>
+                                  <path d="M12,13.3129837 L16.6870163,18 L18.7173167,15.9696996 C19.0942278,15.5932712 19.0942278,14.9818163 18.7173167,14.6049053 L15.3950947,11.2826833 C15.0181837,10.9057722 14.4072114,10.9057722 14.0303004,11.2826833 L12,13.3129837 Z" id="Stroke-7"></path>
+                                  <path d="M17,17.4210741 C17,17.4210741 12.9268166,22.6810346 5,14" id="Stroke-9"></path>
+                                  <path d="M12,13.0149158 C12,13.0149158 10.3501847,15.8020733 7,12" id="Stroke-11"></path>
+                              </g>
+                          </g>
+                      </g>
+                  </svg>
+                    Llamar por teléfono
+                  </a>
+                </span>
+              </div><!-- .mobile-phone-call -->
+            </div><!-- .column -->
+          </form>
+        </div><!-- .wrapper -->
+      </div><!-- .footer-contact -->
+    
+    <footer class="site-footer">
+      <div class="wrapper wrapper-image">
+        <img src="/assets/img/illustration-footer.svg" alt="Illustration" class="illustration-footer">
+      </div>
+      <div class="company-information">
+        <div class="wrapper">
+          <div class="company-information-main">
+            <div class="logo">
+              <a href="/"><img src="/assets/img/logo.svg" alt="Logo de Torresburriel Estudio"></a>
+            </div>
+            <p class="slogan">
+              <strong>Sabemos lo que piensan tus clientes</strong>
+            </p>
+            <p class="address">
+              Calle Don Jaime I, 5. Planta 3<br />
+              50003 Zaragoza (España)<br />
+              +34 976 979 313
+            </p>
+          </div>
+          <p class="ux-alliance">
+            <span>Member of the</span>
+            <a href="http://www.uxalliance.com//" target="_blank">
+              <img src="/assets/img/logo-ux-alliance.svg" alt="UX Alliance logo">
+            </a>
+          </p>
+        </div><!-- .wrapper -->
+      </div><!-- .company-information -->
+      <div class="company-footer-menu">
+        <div class="wrapper">
+          <div class="links">
+            <nav class="language">
+              <a href="/en/" class="btn secondary blue">English version</a>
+            </nav>
+            <nav class="recommended-content">
+              Contenidos destacados:
+              <ul>
+                <li><a href="http://www.torresburriel.com/weblog/category/experiencia-de-usuario/">Experiencia de usuario</a></li>
+                <li><a href="http://www.torresburriel.com/weblog/category/usabilidad/">Usabilidad</a></li>
+                <li><a href="http://www.torresburriel.com/weblog/category/arquitectura-de-informacion/">Arquitectura de información</a></li>
+              </ul>
+            </nav>
+          </div>
+          <ul class="social-networks">
+            <li class="twitter">
+              <a href="https://twitter.com/uxTBE" target="_blank" title="Torresburriel Estudio en Twitter">
+                <img src="/assets/img/social-twitter.svg" alt="Twitter icon">
+              </a>
+            </li>
+            <li class="linkedin">
+              <a href="https://www.linkedin.com/company/2860721" target="_blank" title="Torresburriel Estudio en LinkedIn">
+                <img src="/assets/img/social-linkedin.svg" alt="Linkedin icon">
+              </a>
+            </li>
+            <li class="facebook">
+              <a href="https://www.facebook.com/TorresburrielEstudio" target="_blank" title="Torresburriel Estudio en Facebook">
+                <img src="/assets/img/social-facebook.svg" alt="Facebook icon">
+              </a>
+            </li>
+            <li class="instagram">
+              <a href="https://www.instagram.com/uxtbe/" target="_blank" title="Torresburriel Estudio en Instagram">
+                <img src="/assets/img/social-instagram.svg" alt="Instagram icon">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div><!-- .company-footer-menu -->
+    </footer><!-- .site-footer -->
+  </div><!-- .remodal-bg -->
+
+
+  <div class="remodal remodal-menu" data-remodal-id="modal_main_menu">
+    <div class="wrapper">
+      <div class="modal-content">
+        <div class="modal-top">
+          <div class="logo">
+            <a href="/">
+              <img src="/assets/img/logo-only-icon.svg" alt="Logo de Torresburriel Estudio">
+            </a>
+          </div>
+          <button data-remodal-action="close" class="remodal-close"></button>
+        </div><!-- .modal-top -->
+        <nav class="modal-menu">
+          <ul>
+            <li>
+              <a href="/casos-de-exito/">Casos de éxito</a>
+            </li>
+            <li>
+              <a href="/servicios/">Servicios</a>
+            </li>
+            <li>
+              <a href="/equipo/">Equipo</a>
+            </li>
+            <li>
+              <a href="/weblog/">Blog</a>
+            </li>
+            <li>
+              <a href="/contacto/">Contacto</a>
+            </li>
+          </ul>
+        </nav>
+      </div><!-- .modal-content -->
+    </div><!-- .wrapper -->
+  </div><!-- .remodal -->
+
+  <div id="cookie-law-info-bar" class="cookie-law-info-bar">
+    <div class="wrapper">
+      <p>
+        Este sitio web utiliza cookies propias y de terceros para analizar el tráfico de la red, así como poder personalizar la información que ofrece a sus usuarios o promover sus servicios. Seguir navegando en este sitio implica aceptar su uso. <a href="/politica-de-cookies/" target="_blank">Información para cambiar esta configuración y obtener más detalles</a> sobre nuestra política de cookies.
+      </p>
+      <span class="button">
+        <a href="#" id="cookie_action_close_header" class="btn primary">Aceptar</a>
+      </span>
+    </div>
+  </div>
+
+  <script src="/assets/js/js.cookie.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="/assets/js/remodal.min.js"></script>
+  <script src="/assets/js/devicedetector.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+  <script src="/assets/js/jquery.rss.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+  <script src="/assets/js/scrollreveal.min.js"></script>
+  <script src="/assets/js/jquery.formatter.min.js"></script>
+  <script src="/assets/js/main.min.js"></script>
+
+</body>
+</html>
